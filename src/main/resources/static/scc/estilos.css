@@ -1,0 +1,43 @@
+ a {
+     background-color: orange;
+                color:black;
+            }
+            
+            a:hover{
+                background-color: gold;
+                font-size: 22px;
+                color: white;
+            }
+            
+            header {
+                text-align: center;
+                background-color: greenyellow;
+                color: black
+            }
+            header {
+               
+            }
+            article header {
+                text-align: center;
+                background-color: greenyellow;
+                color: black;             
+            }
+            
+            figcaption {
+                 color: red;                
+            }
+            
+            #aviso {
+                background-color: #0099cc;
+            }
+            
+            .producto {
+                background-color: greenyellow; 
+            }
+            
+            .algo {
+                
+            }
+
+
+
